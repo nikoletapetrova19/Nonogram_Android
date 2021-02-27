@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nonogram</string>
+    <string name="background_music">Background music</string>
+    <string name="title_message">Press anywhere to start</string>
+    <string name="category1">Characters</string>
+    <string name="category2">Animals</string>
+    <string name="category3">Logos</string>
+    <string name="category4">My level</string>
+    <string name="num_ticket">3</string>
+</resources>
